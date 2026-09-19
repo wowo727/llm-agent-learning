@@ -1,0 +1,10 @@
+name = input("请输入姓名：")
+major = input("请输入专业：")
+direction = input("请输入方向：")
+
+print("=" *30)
+print("个人学习档案")
+print(f"姓名：{name}")
+print(f"专业：{major}")
+print(f"方向：{direction}")
+print("=" *30)
